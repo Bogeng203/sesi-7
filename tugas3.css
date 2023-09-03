@@ -1,10 +1,4 @@
-.round-image {
-    width: 30px; /* Atur lebar gambar */
-    height: 0px; /* Atur tinggi gambar */
-    background-image: url("hacktiv8.png"); /* Ganti dengan URL gambar Anda */
-    background-size: cover; /* Sesuaikan ukuran gambar dengan elemen */
-    border-radius: 30%; /* Membuat gambar menjadi bulat */
-}
+
 
 *, body {
     margin: 0;
